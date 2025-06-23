@@ -1,8 +1,9 @@
-# 🔐 Cybersecurity Internship – Task 1: Network Reconnaissance using Nmap
+# 🔐 Cybersecurity Internship – Task 1: Scan Your Local Network for Open Ports
+
 
 ## 🧭 Objective
 
-Learn and apply basic network reconnaissance techniques using `Nmap` to identify live hosts, scan ports, understand service exposure, and document findings as part of an internship project.
+-Learn to discover open ports on devices in your local network to understand network exposure.
 
 ---
 
