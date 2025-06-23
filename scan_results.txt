@@ -1,0 +1,422 @@
+# Nmap 7.95 scan initiated Mon Jun 23 13:30:37 2025 as: /usr/lib/nmap/nmap --privileged -sS -T4 -oN scan_results.txt 192.168.142.0/24
+Warning: 192.168.142.44 giving up on port because retransmission cap hit (6).
+Nmap scan report for 192.168.142.0
+Host is up (0.00032s latency).
+All 1000 scanned ports on 192.168.142.0 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.142.1
+Host is up (0.00043s latency).
+All 1000 scanned ports on 192.168.142.1 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.142.2
+Host is up (0.00089s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+2013/tcp closed raid-am
+7070/tcp closed realserver
+
+Nmap scan report for 192.168.142.3
+Host is up (0.0041s latency).
+All 1000 scanned ports on 192.168.142.3 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.142.4
+Host is up (0.00045s latency).
+All 1000 scanned ports on 192.168.142.4 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.142.5
+Host is up (0.00053s latency).
+All 1000 scanned ports on 192.168.142.5 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.142.6
+Host is up (0.00022s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+7512/tcp closed unknown
+
+Nmap scan report for 192.168.142.7
+Host is up (0.00060s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+3690/tcp closed svn
+
+Nmap scan report for 192.168.142.8
+Host is up (0.00049s latency).
+All 1000 scanned ports on 192.168.142.8 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.142.9
+Host is up (0.00022s latency).
+All 1000 scanned ports on 192.168.142.9 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.142.10
+Host is up (0.00056s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+2144/tcp closed lv-ffx
+
+Nmap scan report for 192.168.142.11
+Host is up (0.00046s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+13783/tcp closed netbackup
+
+Nmap scan report for 192.168.142.12
+Host is up (0.00028s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+49158/tcp closed unknown
+
+Nmap scan report for 192.168.142.13
+Host is up (0.0048s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT    STATE  SERVICE
+711/tcp closed cisco-tdp
+
+Nmap scan report for 192.168.142.14
+Host is up (0.00027s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+50300/tcp closed unknown
+
+Nmap scan report for 192.168.142.15
+Host is up (0.00051s latency).
+All 1000 scanned ports on 192.168.142.15 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.142.16
+Host is up (0.013s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+2251/tcp closed dif-port
+
+Nmap scan report for 192.168.142.17
+Host is up (0.00049s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT    STATE  SERVICE
+714/tcp closed iris-xpcs
+
+Nmap scan report for 192.168.142.18
+Host is up (0.00052s latency).
+All 1000 scanned ports on 192.168.142.18 are in ignored states.
+Not shown: 941 filtered tcp ports (no-response), 59 closed tcp ports (reset)
+
+Nmap scan report for 192.168.142.19
+Host is up (0.00022s latency).
+Not shown: 994 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+3/tcp     closed compressnet
+1580/tcp  closed tn-tl-r1
+2033/tcp  closed glogger
+13783/tcp closed netbackup
+26214/tcp closed unknown
+49158/tcp closed unknown
+
+Nmap scan report for 192.168.142.20
+Host is up (0.00081s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT    STATE  SERVICE
+981/tcp closed unknown
+
+Nmap scan report for 192.168.142.21
+Host is up (0.00029s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+714/tcp  closed iris-xpcs
+3690/tcp closed svn
+
+Nmap scan report for 192.168.142.22
+Host is up (0.00038s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+19283/tcp closed keysrvr
+
+Nmap scan report for 192.168.142.23
+Host is up (0.00048s latency).
+All 1000 scanned ports on 192.168.142.23 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.142.24
+Host is up (0.00028s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT   STATE  SERVICE
+89/tcp closed su-mit-tg
+
+Nmap scan report for 192.168.142.25
+Host is up (0.00030s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+8254/tcp closed unknown
+
+Nmap scan report for 192.168.142.26
+Host is up (0.00054s latency).
+All 1000 scanned ports on 192.168.142.26 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.142.27
+Host is up (0.00073s latency).
+Not shown: 977 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+1029/tcp  closed ms-lsa
+1216/tcp  closed etebac5
+1272/tcp  closed cspmlockmgr
+1434/tcp  closed ms-sql-m
+2105/tcp  closed eklogin
+2717/tcp  closed pn-requester
+2998/tcp  closed iss-realsec
+3268/tcp  closed globalcatLDAP
+3324/tcp  closed active-net
+3333/tcp  closed dec-notes
+3390/tcp  closed dsc
+3878/tcp  closed fotogcad
+4126/tcp  closed ddrepl
+5850/tcp  closed unknown
+6646/tcp  closed unknown
+8873/tcp  closed dxspider
+9040/tcp  closed tor-trans
+9090/tcp  closed zeus-admin
+10778/tcp closed unknown
+11110/tcp closed sgi-soap
+24444/tcp closed unknown
+42510/tcp closed caerpc
+64680/tcp closed unknown
+
+Nmap scan report for 192.168.142.28
+Host is up (0.00045s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT    STATE  SERVICE
+714/tcp closed iris-xpcs
+
+Nmap scan report for 192.168.142.29
+Host is up (0.0012s latency).
+All 1000 scanned ports on 192.168.142.29 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.142.30
+Host is up (0.038s latency).
+All 1000 scanned ports on 192.168.142.30 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.142.31
+Host is up (0.00079s latency).
+Not shown: 994 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+99/tcp    closed metagram
+714/tcp   closed iris-xpcs
+981/tcp   closed unknown
+3690/tcp  closed svn
+5357/tcp  closed wsdapi
+41511/tcp closed unknown
+
+Nmap scan report for 192.168.142.32
+Host is up (0.00035s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+2144/tcp  closed lv-ffx
+49158/tcp closed unknown
+
+Nmap scan report for 192.168.142.33
+Host is up (0.00029s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+99/tcp   closed metagram
+2013/tcp closed raid-am
+
+Nmap scan report for 192.168.142.34
+Host is up (0.00040s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+2013/tcp  closed raid-am
+12174/tcp closed unknown
+
+Nmap scan report for 192.168.142.35
+Host is up (0.0011s latency).
+Not shown: 997 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+711/tcp   closed cisco-tdp
+2301/tcp  closed compaqdiag
+13783/tcp closed netbackup
+
+Nmap scan report for 192.168.142.36
+Host is up (0.00022s latency).
+All 1000 scanned ports on 192.168.142.36 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.142.37
+Host is up (0.00026s latency).
+Not shown: 997 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+2033/tcp  closed glogger
+7512/tcp  closed unknown
+50003/tcp closed unknown
+
+Nmap scan report for 192.168.142.38
+Host is up (0.00034s latency).
+All 1000 scanned ports on 192.168.142.38 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.142.39
+Host is up (0.00023s latency).
+Not shown: 997 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+1580/tcp closed tn-tl-r1
+3690/tcp closed svn
+7512/tcp closed unknown
+
+Nmap scan report for 192.168.142.40
+Host is up (0.00059s latency).
+All 1000 scanned ports on 192.168.142.40 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.142.41
+Host is up (0.00027s latency).
+All 1000 scanned ports on 192.168.142.41 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.142.42
+Host is up (0.00027s latency).
+Not shown: 997 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+89/tcp    closed su-mit-tg
+2033/tcp  closed glogger
+19283/tcp closed keysrvr
+
+Nmap scan report for 192.168.142.43
+Host is up (0.00025s latency).
+All 1000 scanned ports on 192.168.142.43 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.142.44
+Host is up (0.064s latency).
+Not shown: 992 closed tcp ports (reset)
+PORT      STATE    SERVICE
+514/tcp   filtered shell
+8001/tcp  open     vcom-tunnel
+8002/tcp  open     teradataordbms
+8080/tcp  open     http-proxy
+32768/tcp open     filenet-tms
+32769/tcp open     filenet-rpc
+32770/tcp open     sometimes-rpc3
+32771/tcp open     sometimes-rpc5
+
+Nmap scan report for 192.168.142.45
+Host is up (0.00056s latency).
+Not shown: 997 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+1580/tcp  closed tn-tl-r1
+19283/tcp closed keysrvr
+50300/tcp closed unknown
+
+Nmap scan report for 192.168.142.46
+Host is up (0.00034s latency).
+Not shown: 994 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+88/tcp    closed kerberos-sec
+1580/tcp  closed tn-tl-r1
+2033/tcp  closed glogger
+2144/tcp  closed lv-ffx
+7512/tcp  closed unknown
+49158/tcp closed unknown
+
+Nmap scan report for 192.168.142.47
+Host is up (0.00024s latency).
+All 1000 scanned ports on 192.168.142.47 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.142.48
+Host is up (0.00024s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT    STATE  SERVICE
+714/tcp closed iris-xpcs
+
+Nmap scan report for 192.168.142.49
+Host is up (0.00067s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+8254/tcp closed unknown
+
+Nmap scan report for 192.168.142.50
+Host is up (0.00047s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+50300/tcp closed unknown
+
+Nmap scan report for 192.168.142.51
+Host is up (0.00017s latency).
+All 1000 scanned ports on 192.168.142.51 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.142.52
+Host is up (0.00038s latency).
+All 1000 scanned ports on 192.168.142.52 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.142.53
+Host is up (0.00021s latency).
+Not shown: 997 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+89/tcp   closed su-mit-tg
+2106/tcp closed ekshell
+3690/tcp closed svn
+
+Nmap scan report for 192.168.142.54
+Host is up (0.042s latency).
+All 1000 scanned ports on 192.168.142.54 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.142.55
+Host is up (0.11s latency).
+All 1000 scanned ports on 192.168.142.55 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.142.56
+Host is up (0.00031s latency).
+All 1000 scanned ports on 192.168.142.56 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.142.57
+Host is up (0.00027s latency).
+Not shown: 995 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+711/tcp   closed cisco-tdp
+2106/tcp  closed ekshell
+8254/tcp  closed unknown
+13783/tcp closed netbackup
+26214/tcp closed unknown
+
+Nmap scan report for 192.168.142.58
+Host is up (0.00026s latency).
+All 1000 scanned ports on 192.168.142.58 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.142.59
+Host is up (0.00043s latency).
+All 1000 scanned ports on 192.168.142.59 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.142.60
+Host is up (0.0090s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+2035/tcp closed imsldoc
+5000/tcp closed upnp
+
+Nmap scan report for 192.168.142.61
+Host is up (0.00029s latency).
+All 1000 scanned ports on 192.168.142.61 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.142.62
+Host is up (0.00023s latency).
+All 1000 scanned ports on 192.168.142.62 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.142.63
+Host is up (0.00026s latency).
+All 1000 scanned ports on 192.168.142.63 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
